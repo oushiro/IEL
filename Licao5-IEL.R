@@ -29,7 +29,6 @@ tab.word <- table(ds2$word, ds2$r)
 
 prop.store <- prop.table(tab.store, 1) * 100
 
-
 ####Gráfico de barras####
 ?barplot
 
